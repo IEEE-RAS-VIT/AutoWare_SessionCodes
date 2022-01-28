@@ -2,10 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import secretKey
 import time
-my_username="techie_231"
+my_username=""
 my_password=secretKey.password()
 
-usernames=['_.ishita_28','_ani_1601','muskan_jhjh']
+usernames=['','','']
 
 messages="Hey!,My new post is up on instagram,Do check it out !"
 
