@@ -1,7 +1,7 @@
 from instabot import Bot
 import secretKey
 bot=Bot()
-username="techie_231"
+username=""
 bot.login(username=username,password=secretKey.password())
 print("Login Successful")
 img="demo.jpg"
