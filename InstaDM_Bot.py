@@ -1,9 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import secretKey
 import time
 my_username=""
-my_password=secretKey.password()
+my_password=""
 
 usernames=['','','']
 
